@@ -1,0 +1,50 @@
+#mainheading
+{
+    color: azure;
+    background-color:black;
+    text-align:center;
+    font-size:4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow:10px 10px 10px greenyellow;
+    box-shadow:10px 10px 10px blanchedalmond;
+    border:10px solid;
+    border-radius:20px;
+}
+#amaravathi{
+    width:250px;
+    height:300px;
+    visibility: visible;
+}
+#chennai{
+    width:250px;
+    height:300px;
+}
+#hyderabad{
+    width:250px;
+    height:300px;
+}
+#amaravathidesc{
+    display:inline-block;
+    width:800px;
+    height:1000px;
+    overflow: auto;
+    text-align: justify;
+}
+#chennaidesc{
+    display:inline-block;
+    width:800px;
+    height:1000px;
+    overflow: auto;
+    text-align: justify;
+}
+#hyderabaddesc{
+    display:inline-block;
+    width:800px;
+    height:1000px;
+    overflow: auto;
+    text-align: justify;
+}
+#chennaiheading{
+    text-align: right;
+    width: 1100px;
+}
